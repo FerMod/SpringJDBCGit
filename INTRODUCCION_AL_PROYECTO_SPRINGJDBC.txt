@@ -1,0 +1,86 @@
+
+INTRODUCCIÓN AL PROYECTO SPRINGJDBC
+
+A la finalización de cada fase, se subirá a la plataforma Moodle lo que se haya determinado realizar, en soporte informático 
+(formato PDF).
+
+Las especificaciones son las siguientes:
+
+
+	Informe a entregar: 
+
+		•	Página de título: con la Abreviatura de clase, Nombre y apellidos de los miembros del grupo.
+		•	Contenido: Código fuente de los programas del Proyecto solicitado. 
+		•	Apéndices/Anexos: en caso necesario.
+
+EVALUACIÓN
+
+Se evaluara el Proyecto de forma individual.
+
+La nota se calculará de la siguiente manera, siempre y cuando la asistencia en el periodo de realización supere el 80%:
+
+	•	El 20% de la nota de cada fase será del "Seguimiento y evaluación del trabajo realizado en clase", correspondiente a la asistencia, trabajo en grupo y el trabajo individual en clase de cada miembro del grupo. 
+
+	•	El otro 80% de la nota de cada fase será sobre el "Proyecto entregado" aplicando los siguientes criterios de evaluación:
+
+	•	El Proyecto funcione.
+	•	Utilización de algoritmos adecuados.
+	•	Entrega en el plazo fijado.
+	•	Razonamiento de las decisiones tomadas.
+
+PLAZO DE REALIZACIÓN
+
+Los proyectos deberán estar entregados para el 9 de Enero de 2015. (El retraso en la entrega del informe implica 1 punto por 
+cada día de retraso, en la calificación del proyecto).
+
+
+
+
+
+
+
+GRUPOS 2DM3
+
+Grupo 1: Idoia, Jon E., Jon V.
+Grupo 2: Unai U., Vitty, Sergio
+Grupo 3: Luis, Samuel, Hodei
+Grupo 4: Unai G., Jon I., Ferrán
+Grupo 5: David, Unai E., Iván
+
+
+DEFINICIÓN DEL PROYECTO
+
+Hay que hacer el programa de mantenimiento de una tabla de la afamada Base de Datos Almacén. Cada grupo lo hará de una tabla. 
+Las tablas asignadas a cada grupo son:
+
+Grupo 1: Tabla Artículos.
+
+Grupo 2: Tabla Albaranes.
+
+Grupo 3: Tabla Clientes.
+
+Grupo 4: Tabla Proveedores.
+
+Grupo 5: Tabla Líneas.
+
+
+Para cada tabla se pide lo siguiente:
+
+	1.	Añadir nuevos registros a la tabla.
+
+	2.	Modificar el contenido de registros.
+		a.	Se introducirá la clave primaria.
+		b.	Se sacarán los datos por pantalla.
+		c.	Se introducirán los datos para modificar.
+		d.	Se procederá a la modificación.
+
+	3.	Borrar registros de la tabla.
+		a.	Se introducirá la clave primaria.
+		b.	Se sacarán los datos por pantalla.
+		c.	Se pedirá conformidad para borrar.
+		d.	Se procederá al borrado.
+
+
+	4.	Consultar registros de la tabla.
+		a.	Se introducirá la clave primaria.
+		b.	Se sacarán los datos por pantalla.
