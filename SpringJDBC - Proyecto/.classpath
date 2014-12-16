@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse_luna/eclipse/dropins/libreriasBD/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse_luna/eclipse/dropins/libreriasBD/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse_luna/eclipse/dropins/libreriasBD/commons-logging-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse_luna/eclipse/dropins/libreriasBD/commons-pool-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse_luna/eclipse/dropins/libreriasBD/junit-4.11-SNAPSHOT-20120416-1530.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse_luna/eclipse/dropins/libreriasBD/mysql-connector-java-5.1.20-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse_luna/eclipse/dropins/libreriasBD/spring-aop-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse_luna/eclipse/dropins/libreriasBD/spring-asm-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse_luna/eclipse/dropins/libreriasBD/spring-aspects-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse_luna/eclipse/dropins/libreriasBD/spring-beans-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse_luna/eclipse/dropins/libreriasBD/spring-context-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse_luna/eclipse/dropins/libreriasBD/spring-context-support-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse_luna/eclipse/dropins/libreriasBD/spring-core-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse_luna/eclipse/dropins/libreriasBD/spring-expression-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse_luna/eclipse/dropins/libreriasBD/spring-instrument-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse_luna/eclipse/dropins/libreriasBD/spring-instrument-tomcat-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse_luna/eclipse/dropins/libreriasBD/spring-jdbc-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse_luna/eclipse/dropins/libreriasBD/spring-jms-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse_luna/eclipse/dropins/libreriasBD/spring-orm-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse_luna/eclipse/dropins/libreriasBD/spring-oxm-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse_luna/eclipse/dropins/libreriasBD/spring-struts-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse_luna/eclipse/dropins/libreriasBD/spring-test-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse_luna/eclipse/dropins/libreriasBD/spring-tx-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse_luna/eclipse/dropins/libreriasBD/spring-web-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse_luna/eclipse/dropins/libreriasBD/spring-webmvc-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse_luna/eclipse/dropins/libreriasBD/spring-webmvc-portlet-3.2.0.M1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
